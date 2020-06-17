@@ -1,0 +1,14 @@
+ch\zhaw\infm\springboottemplate\entities\Manufacturer.class
+ch\zhaw\infm\springboottemplate\restcontroller\OrderRestController.class
+ch\zhaw\infm\springboottemplate\restcontroller\RecipientRestController.class
+ch\zhaw\infm\springboottemplate\repositories\MachineRepository.class
+ch\zhaw\infm\springboottemplate\entities\Machine.class
+ch\zhaw\infm\springboottemplate\restcontroller\ManufacturerRestController.class
+ch\zhaw\infm\springboottemplate\repositories\OrderRepository.class
+ch\zhaw\infm\springboottemplate\InfMApplication.class
+ch\zhaw\infm\springboottemplate\entities\Company.class
+ch\zhaw\infm\springboottemplate\repositories\ManufacturerRepository.class
+ch\zhaw\infm\springboottemplate\repositories\RecipientRepository.class
+ch\zhaw\infm\springboottemplate\restcontroller\MachineRestController.class
+ch\zhaw\infm\springboottemplate\entities\Recipient.class
+ch\zhaw\infm\springboottemplate\entities\Order.class

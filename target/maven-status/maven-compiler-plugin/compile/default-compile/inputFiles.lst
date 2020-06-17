@@ -1,0 +1,14 @@
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\repositories\MachineRepository.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\entities\Recipient.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\repositories\RecipientRepository.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\entities\Company.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\repositories\OrderRepository.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\entities\Machine.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\InfMApplication.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\repositories\ManufacturerRepository.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\restcontroller\MachineRestController.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\restcontroller\ManufacturerRestController.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\entities\Order.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\restcontroller\OrderRestController.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\entities\Manufacturer.java
+C:\Users\Selina Fässler\git\infm-spring-boot-template\src\main\java\ch\zhaw\infm\springboottemplate\restcontroller\RecipientRestController.java
